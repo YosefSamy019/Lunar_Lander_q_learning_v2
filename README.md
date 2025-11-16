@@ -29,7 +29,7 @@ After training, the code generates a CSV file (`qtable.csv`) containing:
 This CSV can be used to build greedy policies, analyze agent behavior, or serve as a dataset for teaching and research.
 
 **You can access the dataset on Kaggle here:**  
-[https://www.kaggle.com/datasets/youssef019/lunar-lander-q-learning-dataset/data](https://www.kaggle.com/datasets/youssef019/lunar-lander-q-learning-dataset/data) :contentReference[oaicite:0]{index=0}
+[https://www.kaggle.com/datasets/youssef019/lunar-lander-q-learning-dataset/data](https://www.kaggle.com/datasets/youssef019/lunar-lander-q-learning-dataset/data)
 
 ---
 
